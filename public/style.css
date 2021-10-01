@@ -1,0 +1,16 @@
+
+.title{
+    border: 0.5px solid white;
+    background-color: rgba(236, 77, 236, 0.932);
+    color : white;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+
+li{
+    text-align: center;
+}
+.form{
+   margin: auto;
+  width: 50%;
+}
